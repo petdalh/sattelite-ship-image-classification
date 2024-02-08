@@ -44,7 +44,8 @@ The project demonstrates the potential of using CNNs for satellite image classif
 - Implementing data augmentation techniques to improve model robustness.
 
 ## How to Use
-[Instructions on how to set up, train, and evaluate the model. Include any requirements for libraries or tools.]
+
+Run the main.ipynb file
 
 ## Acknowledgments
 Special thanks to Robert Hammell for providing the dataset on Kaggle, and to the various libraries and tools that facilitated this analysis, including TensorFlow, Keras, NumPy, and Matplotlib.
