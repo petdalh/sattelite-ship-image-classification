@@ -42,6 +42,7 @@ The project demonstrates the potential of using CNNs for satellite image classif
 - Model optimization and hyperparameter tuning.
 - Incorporating additional data and classes for multi-class classification.
 - Implementing data augmentation techniques to improve model robustness.
+- I want to try to use my own model I created from scratch
 
 ## How to Use
 
